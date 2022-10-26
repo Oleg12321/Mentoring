@@ -1,0 +1,49 @@
+body {
+    background-color: #0b8f8f;
+}
+
+.t_p {
+    margin-left: 39px;
+    display: inline-block;
+    color: floralwhite;
+    text-align: center;
+    inline-size: fit-content;
+}
+.positive {
+    color: floralwhite;
+    text-align: center;
+    inline-size: fit-content;
+    font-size: 20px;
+}
+
+.t_m {
+    position: absolute;
+    right: 185px;
+    top: 10px;
+    color: floralwhite;
+    text-align: center;
+    inline-size: fit-content;
+}
+.minuses {
+    position: absolute;
+    right: 95px;
+    color: floralwhite;
+    top: 90px;
+    font-size: 20px;
+    text-align: center;
+    inline-size: fit-content;
+}
+
+.bg1 {
+    position: absolute;
+    top: 50px;
+    left: 37%;
+}
+.bg2 {
+    position: absolute;
+    right: 100px;
+}
+.bg3 {
+    position: absolute;
+    left: 76px;
+}
